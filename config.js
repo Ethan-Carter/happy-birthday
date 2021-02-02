@@ -22,13 +22,13 @@ var config = {
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "试着点一下？",
-        play: "来点音乐？",
-        bannar_coming: "氛围",
-        balloons_flying: "好像还少点东西呢！",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "点亮这里~",
+        play: "来首你爱听的歌",
+        bannar_coming: "本网页的主题",
+        balloons_flying: "好像还少点东西！",
+        cake_fadein: "尝尝小弟送你的电子版蛋糕？",
+        light_candle: "给你点根蜡烛？",
+        wish_message: "生日快乐~",
         story: "A MESSAGE FOR YOU",
     }
 };
